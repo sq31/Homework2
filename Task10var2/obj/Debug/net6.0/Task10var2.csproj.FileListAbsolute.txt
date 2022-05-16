@@ -1,0 +1,15 @@
+D:\Обучение\GeekBrains\6 Знакомство с языками программирования\Семинар и ДЗ\Homework_2\Task10var2\bin\Debug\net6.0\Task10var2.exe
+D:\Обучение\GeekBrains\6 Знакомство с языками программирования\Семинар и ДЗ\Homework_2\Task10var2\bin\Debug\net6.0\Task10var2.deps.json
+D:\Обучение\GeekBrains\6 Знакомство с языками программирования\Семинар и ДЗ\Homework_2\Task10var2\bin\Debug\net6.0\Task10var2.runtimeconfig.json
+D:\Обучение\GeekBrains\6 Знакомство с языками программирования\Семинар и ДЗ\Homework_2\Task10var2\bin\Debug\net6.0\Task10var2.dll
+D:\Обучение\GeekBrains\6 Знакомство с языками программирования\Семинар и ДЗ\Homework_2\Task10var2\bin\Debug\net6.0\Task10var2.pdb
+D:\Обучение\GeekBrains\6 Знакомство с языками программирования\Семинар и ДЗ\Homework_2\Task10var2\obj\Debug\net6.0\Task10var2.csproj.AssemblyReference.cache
+D:\Обучение\GeekBrains\6 Знакомство с языками программирования\Семинар и ДЗ\Homework_2\Task10var2\obj\Debug\net6.0\Task10var2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\GeekBrains\6 Знакомство с языками программирования\Семинар и ДЗ\Homework_2\Task10var2\obj\Debug\net6.0\Task10var2.AssemblyInfoInputs.cache
+D:\Обучение\GeekBrains\6 Знакомство с языками программирования\Семинар и ДЗ\Homework_2\Task10var2\obj\Debug\net6.0\Task10var2.AssemblyInfo.cs
+D:\Обучение\GeekBrains\6 Знакомство с языками программирования\Семинар и ДЗ\Homework_2\Task10var2\obj\Debug\net6.0\Task10var2.csproj.CoreCompileInputs.cache
+D:\Обучение\GeekBrains\6 Знакомство с языками программирования\Семинар и ДЗ\Homework_2\Task10var2\obj\Debug\net6.0\Task10var2.dll
+D:\Обучение\GeekBrains\6 Знакомство с языками программирования\Семинар и ДЗ\Homework_2\Task10var2\obj\Debug\net6.0\refint\Task10var2.dll
+D:\Обучение\GeekBrains\6 Знакомство с языками программирования\Семинар и ДЗ\Homework_2\Task10var2\obj\Debug\net6.0\Task10var2.pdb
+D:\Обучение\GeekBrains\6 Знакомство с языками программирования\Семинар и ДЗ\Homework_2\Task10var2\obj\Debug\net6.0\Task10var2.genruntimeconfig.cache
+D:\Обучение\GeekBrains\6 Знакомство с языками программирования\Семинар и ДЗ\Homework_2\Task10var2\obj\Debug\net6.0\ref\Task10var2.dll
