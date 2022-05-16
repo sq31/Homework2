@@ -6,4 +6,33 @@
 32679 -> 6
 */
 
-Console.WriteLine("Hello, World!");
+Console.Write("Введите число - ");
+int number = Convert.ToInt32(Console.ReadLine());
+int Digit = 0;
+
+if (number < 100)
+{
+    if (number > 100 && number < 1000)
+    {
+        Digit = number - (number / 10) * 10;
+        Console.WriteLine($"Третья цифра от числа {number} является {Digit}.");
+    }
+
+    else
+    {
+        while (number > 999)
+        {
+            number = number / 10;
+            Digit = number - (number / 10) * 10;
+        }
+        Console.WriteLine($"Третья цифра от числа {number} является {Digit}.");
+
+    }
+    
+
+}
+
+else
+{
+    Console.WriteLine("Число не является трехзначным, третьей цифры нет!");
+}
